@@ -1,0 +1,11 @@
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\bin\Debug\netcoreapp3.0\PerfectNumbers.exe
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\bin\Debug\netcoreapp3.0\PerfectNumbers.deps.json
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\bin\Debug\netcoreapp3.0\PerfectNumbers.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\bin\Debug\netcoreapp3.0\PerfectNumbers.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\bin\Debug\netcoreapp3.0\PerfectNumbers.dll
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\bin\Debug\netcoreapp3.0\PerfectNumbers.pdb
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\obj\Debug\netcoreapp3.0\PerfectNumbers.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\obj\Debug\netcoreapp3.0\PerfectNumbers.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\obj\Debug\netcoreapp3.0\PerfectNumbers.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\obj\Debug\netcoreapp3.0\PerfectNumbers.dll
+C:\Users\Toshiba\Desktop\Algorithm\PerfectNumbers\obj\Debug\netcoreapp3.0\PerfectNumbers.pdb
